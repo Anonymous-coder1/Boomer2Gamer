@@ -1,0 +1,39 @@
+html{
+    margin:0;
+    padding:0;
+    
+}
+
+body { 
+    background-color: black;
+    padding: 0px;
+    border: 0px;
+    border-radius: 0px;
+    margin: 0px;
+    
+}
+.intro-part {
+    
+    
+}
+.navbar{
+    height: 65px;
+    border-bottom: white;
+    fit
+}
+.logo{
+    color: white;
+    padding-bottom: 0px;
+    position: relative;
+    bottom: 60px;
+    left: 30px;
+    font-family: 'Knewave', cursive;
+
+}
+.para{
+    color: yellowgreen;
+    padding-top: 3rem;
+    text-align: center;
+    font-size: 5rem;
+    font-family: cursive;
+}
